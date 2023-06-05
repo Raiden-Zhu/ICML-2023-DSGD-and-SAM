@@ -1,8 +1,10 @@
-# [ICML 2023] The Best of All Worlds: Decentralize to Save Communication, Privatize and Generalize! _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_
+# [ICML 2023] The Best of All Worlds: Decentralize to Save Communication, Privatize and Generalize!<br> _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_
 
 The repository contains the offical implementation of the paper
 
 > [**ICML 2023**] **Decentralized SGD and Average-direction SAM are Asymptotically Equivalent**
+
+The arXiv version is scheduled to be announced at 6 Jun 2023.
 
 > **The Best of All Worlds?
 Can we guarantee communication effiency, privacy and generalizablity all at once?
