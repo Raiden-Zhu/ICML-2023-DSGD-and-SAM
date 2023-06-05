@@ -1,12 +1,12 @@
-# [ICML 2023] The Best of All Worlds? Decentralize to Generalize! _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_
+# [ICML 2023] The Best of All Worlds: Decentralize to Save Communication, Privatize and Generalize! _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_
 
 The repository contains the offical implementation of the paper
 
 > [**ICML 2023**] **Decentralized SGD and Average-direction SAM are Asymptotically Equivalent**
 
-<mark style="background-color: blue">The Best of All Worlds?</mark>
+> **The Best of All Worlds?
 Can we guarantee communication effiency, privacy and generalizablity all at once?
-Our recent **ICML 2023** paper proves that decentralized training might be the anwer!
+Our recent ICML 2023 paper proves that **decentralized training** might be the anwer!**
 
 **TLDR**: The first work on the surprising sharpness-aware minimization nature of decentralized learning. We provide a completely new perspective to understand decentralization, which helps to bridge the gap between theory and practice in decentralized learning.
 
