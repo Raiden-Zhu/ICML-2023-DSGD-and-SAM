@@ -1,4 +1,6 @@
-# [ICML 2023] _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_<br><br>The Best of All Worlds: Embracing Decentralization for Improved Communication Efficiency, Privacy, and Generalization
+# [ICML 2023] _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_
+
+## The Best of All Worlds: Embracing Decentralization for Improved Communication Efficiency, Privacy, and Generalization
 
 The repository contains the offical implementation of the paper
 
