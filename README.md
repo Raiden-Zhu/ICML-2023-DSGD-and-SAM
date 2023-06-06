@@ -4,7 +4,7 @@ The repository contains the offical implementation of the paper
 
 > [**ICML 2023**] **Decentralized SGD and Average-direction SAM are Asymptotically Equivalent**
 
-The arXiv version is scheduled to be announced at 6 Jun 2023.
+Please kindly refer to our [**arXiv version**]([url](https://arxiv.org/abs/2306.02913)) for the latest updates and more detailed information.
 
 > **The Best of All Worlds?
 Can we guarantee communication effiency, privacy and generalizablity all at once?
