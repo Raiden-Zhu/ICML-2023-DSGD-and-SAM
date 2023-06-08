@@ -1,16 +1,22 @@
 # [ICML 2023] _Decentralized SGD and Average-direction SAM are Asymptotically Equivalent_
 
-## The Best of All Worlds: Embracing Decentralization for Improved Communication Efficiency, Privacy, and Generalization
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.02913-b31b1b.svg)](https://arxiv.org/abs/2306.02913)
+[![blog](https://img.shields.io/badge/blogpost-%20-blue?style=social&logo=disqus)](https://raiden-zhu.github.io/resources/)
+[![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Faaron_lou%2Fstatus%2F1646528998594482176%3Fs%3D20)](https://raiden-zhu.github.io/resources/)
+
+
+### The Best of All Worlds: Embracing Decentralization for Improved Communication Efficiency, Privacy, and Generalization
 
 The repository contains the offical implementation of the paper
 
 > [**ICML 2023**] **Decentralized SGD and Average-direction SAM are Asymptotically Equivalent**
 
-Please kindly refer to our [**arXiv version**](https://arxiv.org/abs/2306.02913) for the latest updates and more detailed information.
+<!-- Please kindly refer to our [**arXiv version**](https://arxiv.org/abs/2306.02913) for the latest updates and more detailed information. -->
 
-> **The Best of All Worlds?
+**Motivating question:** The Best of All Worlds?
 Can we guarantee communication effiency, privacy and generalizablity all at once?
-Our recent ICML 2023 paper proves that **decentralized training** might be the anwer!**
+Our recent ICML 2023 paper proves that **decentralized training** might be the anwer!
 
 **TLDR**: The first work on the surprising sharpness-aware minimization nature of decentralized learning. We provide a completely new perspective to understand decentralization, which helps to bridge the gap between theory and practice in decentralized learning.
 
