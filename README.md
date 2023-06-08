@@ -14,6 +14,7 @@ The repository contains the offical implementation of the paper
 
 <!-- Please kindly refer to our [**arXiv version**](https://arxiv.org/abs/2306.02913) for the latest updates and more detailed information. -->
 
+## Overview
 **Motivating question:** The Best of All Worlds?
 Can we guarantee communication effiency, privacy and generalizablity all at once?
 Our recent ICML 2023 paper proves that **decentralized training** might be the anwer!
@@ -26,7 +27,11 @@ Our recent ICML 2023 paper proves that **decentralized training** might be the a
 
 ![image](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM/blob/main/files/The%20validation%20accuracy%20comparison%20of%20C-SGD%20and%20D-SGD%20(ring%20topology)%20on%20CIFAR-10.png)
 
-![image](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM/blob/main/files/Minima%203D%20visualization%20of%20ResNet-18%20trained%20on%20CIFAR-10%20using%20C-SGD%20and%20D-SGD%20(ring%20topology).png)
+## Environment Setup
+Requisite packages can be installed directly from the `requirements.txt`.
+```
+pip install -r requirements.txt
+```
 
 ## Example of usage
 
@@ -47,6 +52,26 @@ python main.py --dataset_name "CIFAR10" --image_size 56 --batch_size 512 --mode 
 ```
 
 More detailed scripts can be found in the "scripts" folder.
+
+The 3D local loss landscape visualization is based on [![visualization](https://img.shields.io/badge/Github-Loss%20Landscape%20Visualization-blue)](https://github.com/tomgoldstein/loss-landscape).
+
+![image](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM/blob/main/files/Minima%203D%20visualization%20of%20ResNet-18%20trained%20on%20CIFAR-10%20using%20C-SGD%20and%20D-SGD%20(ring%20topology).png)
+
+## Citing this repository
+
+Please cite our paper if you find this repo useful in your work:
+
+```
+@InProceedings{zhu2023decentralized,
+  title = 	 {Decentralized SGD and Average-direction SAM are Asymptotically Equivalent},
+  author =       {Zhu, Tongtian and He, Fengxiang and Chen, Kaixuan and Song, Mingli and Tao, Dacheng},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  year = 	 {2023},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {23--29 Jul},
+  publisher =    {PMLR}
+  }
+```
 
 ## Contact
 
