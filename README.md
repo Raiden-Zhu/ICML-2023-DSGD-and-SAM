@@ -62,15 +62,23 @@ The 3D local loss landscape visualization is based on [![visualization](https://
 Please cite our paper if you find this repo useful in your work:
 
 ```
-@InProceedings{zhu2023decentralized,
-  title = 	 {Decentralized SGD and Average-direction SAM are Asymptotically Equivalent},
+
+@InProceedings{pmlr-v202-zhu23e,
+  title = 	 {Decentralized {SGD} and Average-direction {SAM} are Asymptotically Equivalent},
   author =       {Zhu, Tongtian and He, Fengxiang and Chen, Kaixuan and Song, Mingli and Tao, Dacheng},
   booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  pages = 	 {43005--43036},
   year = 	 {2023},
+  editor = 	 {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = 	 {202},
   series = 	 {Proceedings of Machine Learning Research},
   month = 	 {23--29 Jul},
-  publisher =    {PMLR}
-  }
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v202/zhu23e/zhu23e.pdf},
+  url = 	 {https://proceedings.mlr.press/v202/zhu23e.html},
+  abstract = 	 {Decentralized stochastic gradient descent (D-SGD) allows collaborative learning on massive devices simultaneously without the control of a central server. However, existing theories claim that decentralization invariably undermines generalization. In this paper, we challenge the conventional belief and present a completely new perspective for understanding decentralized learning. We prove that D-SGD implicitly minimizes the loss function of an average-direction Sharpness-aware minimization (SAM) algorithm under general non-convex non-$\beta$-smooth settings. This surprising asymptotic equivalence reveals an intrinsic regularization-optimization trade-off and three advantages of decentralization: (1) there exists a free uncertainty evaluation mechanism in D-SGD to improve posterior estimation; (2) D-SGD exhibits a gradient smoothing effect; and (3) the sharpness regularization effect of D-SGD does not decrease as total batch size increases, which justifies the potential generalization benefit of D-SGD over centralized SGD (C-SGD) in large-batch scenarios.}
+}
+
 ```
 
 ## Contact
