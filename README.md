@@ -3,7 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2306.02913-b31b1b.svg)](https://arxiv.org/abs/2306.02913)
 [![blog](https://img.shields.io/badge/blogpost-%20-blue?style=social&logo=disqus)](https://raiden-zhu.github.io/resources/)
-[![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Faaron_lou%2Fstatus%2F1646528998594482176%3Fs%3D20)](https://twitter.com/Raiden13238619/status/1683152896307896322)
+[![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Faaron_lou%2Fstatus%2F1646528998594482176%3Fs%3D20)](https://twitter.com/Raiden13238619/status/1683152896307896322?s=20)
+[![slides](https://img.shields.io/badge/Slides-blue)](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM/blob/main/Slides_ICML_2023_Decentralized_SGD_and_Average_direction_SAM_are_Asymptotically_Equivalent%20.pdf)
+[![poster](https://img.shields.io/badge/Poster-green)](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM/blob/main/Poster_ICML2023_D_SGD_as_SAM.pdf)
 
 
 ### The Best of All Worlds: Embracing Decentralization for Improved Communication Efficiency, Privacy, and Generalization
