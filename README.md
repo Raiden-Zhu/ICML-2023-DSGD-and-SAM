@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2306.02913-b31b1b.svg)](https://arxiv.org/abs/2306.02913)
 [![blog](https://img.shields.io/badge/blogpost-%20-blue?style=social&logo=disqus)](https://raiden-zhu.github.io/resources/)
-[![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Faaron_lou%2Fstatus%2F1646528998594482176%3Fs%3D20)](https://raiden-zhu.github.io/resources/)
+[![twitter](https://twitter.com/Raiden13238619/status/1683152896307896322)](https://raiden-zhu.github.io/resources/)
 
 
 ### The Best of All Worlds: Embracing Decentralization for Improved Communication Efficiency, Privacy, and Generalization
