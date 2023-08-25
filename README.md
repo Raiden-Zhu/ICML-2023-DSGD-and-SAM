@@ -16,6 +16,8 @@ The repository contains the offical implementation of the paper
 
 <!-- Please kindly refer to our [**arXiv version**](https://arxiv.org/abs/2306.02913) for the latest updates and more detailed information. -->
 
+![image](https://github.com/Raiden-Zhu/ICML-2023-DSGD-and-SAM/blob/main/Poster_ICML2023_D_SGD_as_SAM.png)
+
 ## Overview
 **Motivating question:** The Best of All Worlds?
 Can we guarantee communication effiency, privacy and generalizablity all at once?
